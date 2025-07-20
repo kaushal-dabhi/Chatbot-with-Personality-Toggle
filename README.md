@@ -2,6 +2,7 @@
 # 🤖 Chatbot with Personality Toggle
 
 A Streamlit app powered by Groq's LLaMA 3, allowing users to chat with different AI personas.
+LIVE DEMO : https://chatbotwithpersonality.streamlit.app/
 
 ## 🧠 Features
 - Choose from 5 personalities (Dev, Therapist, Bro, Hustler, Nerd)
